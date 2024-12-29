@@ -1,0 +1,13 @@
+body{
+    background-color: #E8ECEF;
+}
+.centered{
+    text-align: center;
+    padding: 200px;
+}
+.secret text{
+    color: #fff;
+    text-align: center;
+    font-size: 2rem;
+    background-color: #000;
+}
